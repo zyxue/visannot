@@ -12,6 +12,7 @@
   "dependencies": {
     "babel-runtime": "latest",
     "d3": "latest",
+    "firebase": "^5.3.0",
     "lodash": "latest"
   },
   "devDependencies": {
