@@ -31,7 +31,7 @@ def calc_figsize(df_gene, trpt_height):
     """
     num_trpts = df_gene.transcript_id.unique().shape[0]
     fig_height = trpt_height * num_trpts
-    return (30, fig_height)
+    return (45, fig_height)
 
 
 def calc_coord_range(df_gene):
